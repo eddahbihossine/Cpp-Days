@@ -28,3 +28,30 @@
 [submodule "cpp-09"]
 	path = cpp-09
 	url = https://github.com/FixedInteger/cpp-09
+[submodule "cpp-01"]
+	path = cpp-01
+	url = https://github.com/FixedInteger/cpp-day01
+[submodule "cpp-00"]
+	path = cpp-00
+	url = https://github.com/FixedInteger/cpp-essentialTraining
+[submodule "cpp-02"]
+	path = cpp-02
+	url = https://github.com/FixedInteger/cpp02
+[submodule "cpp-03"]
+	path = cpp-03
+	url = https://github.com/FixedInteger/cpp03
+[submodule "cpp-04"]
+	path = cpp-04
+	url = https://github.com/FixedInteger/cpp04
+[submodule "cpp-05"]
+	path = cpp-05
+	url = https://github.com/FixedInteger/cpp05
+[submodule "cpp-06"]
+	path = cpp-06
+	url = https://github.com/FixedInteger/cpp06
+[submodule "cpp-07"]
+	path = cpp-07
+	url = https://github.com/FixedInteger/cpp07
+[submodule "cpp-08"]
+	path = cpp-08
+	url = https://github.com/FixedInteger/cpp08
