@@ -1,0 +1,30 @@
+[submodule "cpp-essentialTraining"]
+	path = cpp-essentialTraining
+	url = https://github.com/FixedInteger/cpp-essentialTraining
+[submodule "cpp-day01"]
+	path = cpp-day01
+	url = https://github.com/FixedInteger/cpp-day01
+[submodule "cpp02"]
+	path = cpp02
+	url = https://github.com/FixedInteger/cpp02
+[submodule "cpp03"]
+	path = cpp03
+	url = https://github.com/FixedInteger/cpp03
+[submodule "cpp04"]
+	path = cpp04
+	url = https://github.com/FixedInteger/cpp04
+[submodule "cpp05"]
+	path = cpp05
+	url = https://github.com/FixedInteger/cpp05
+[submodule "cpp06"]
+	path = cpp06
+	url = https://github.com/FixedInteger/cpp06
+[submodule "cpp07"]
+	path = cpp07
+	url = https://github.com/FixedInteger/cpp07
+[submodule "cpp08"]
+	path = cpp08
+	url = https://github.com/FixedInteger/cpp08
+[submodule "cpp-09"]
+	path = cpp-09
+	url = https://github.com/FixedInteger/cpp-09
